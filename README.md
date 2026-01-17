@@ -83,7 +83,7 @@ Lightweight tests verify data utilities, model initialization, and CLI inference
 pytest -q
 ```
 
-## Status (TODO: update later)
+## Status
 
 | Component        | Status    |
 | ---------------- | --------- |
@@ -101,7 +101,5 @@ No large datasets or sensitive data are committed. Small synthetic or toy CSVs m
 
 ## License
 
-MIT (adjust if needed)
+MIT
 
-```
-```

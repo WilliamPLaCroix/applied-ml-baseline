@@ -1,5 +1,3 @@
-# applied-ml-baseline
-
 End-to-end applied ML baselines (scikit-learn + PyTorch) with reproducible training, evaluation, and CLI inference.
 
 ## Scope

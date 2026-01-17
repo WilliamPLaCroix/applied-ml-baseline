@@ -97,9 +97,3 @@ pytest -q
 ## Dataset Policy
 
 No large datasets or sensitive data are committed. Small synthetic or toy CSVs may be used for tests.
-
-
-## License
-
-MIT
-

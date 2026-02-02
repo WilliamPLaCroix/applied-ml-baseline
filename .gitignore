@@ -1,0 +1,5 @@
+**/desktop.ini
+.env
+data
+data/**
+structured_guideline.txt

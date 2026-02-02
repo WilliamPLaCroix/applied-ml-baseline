@@ -1,4 +1,4 @@
-End-to-end applied ML baselines (scikit-learn + PyTorch) with reproducible training, evaluation, and CLI inference.
+End-to-end applied ML pipelines (scikit-learn + PyTorch) with reproducible training, evaluation, and CLI inference.
 
 ## Scope
 
